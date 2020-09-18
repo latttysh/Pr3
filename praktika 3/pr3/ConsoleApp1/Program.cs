@@ -7,8 +7,9 @@ namespace ConsoleApp1
   {
     static void Main(string[] args)
     {
-      string[] text ={"Макс",
-        "C++",
+      string[] text ={
+        "+7128371204721",
+        "12342143124",
         " +79263772622",
         " 89263772622",
         " (926)3772622" };

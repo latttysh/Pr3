@@ -13,7 +13,7 @@ namespace pr3_01_upr2
       sw.WriteLine(sr.ReadToEnd());
       sw.Close();
       sr.Close();
-
+       
     }
   }
 }

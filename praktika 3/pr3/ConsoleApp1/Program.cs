@@ -21,7 +21,7 @@ namespace ConsoleApp1
           //Console.WriteLine($"{item} это телефон"); 
           Console.WriteLine(item + " это телефон");
         }
-        else
+        else 
         {
           Console.WriteLine(
           string.Format("{0} это НЕ телефон", item)
